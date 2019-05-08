@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\bin\Debug\netcoreapp2.1\Unit1hw1.deps.json
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\bin\Debug\netcoreapp2.1\Unit1hw1.runtimeconfig.json
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\bin\Debug\netcoreapp2.1\Unit1hw1.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\bin\Debug\netcoreapp2.1\Unit1hw1.dll
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\bin\Debug\netcoreapp2.1\Unit1hw1.pdb
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.dll
+C:\Users\Eliza\source\repos\Unit1hw1\Unit1hw1\obj\Debug\netcoreapp2.1\Unit1hw1.pdb
